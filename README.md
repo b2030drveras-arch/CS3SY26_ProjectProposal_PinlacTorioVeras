@@ -3,10 +3,10 @@
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: School Energy Consumption Tracker
 ### Section			   	      : 9-Beryllium
 ### Group Members			    : Pinlac, Torio, Veras
-### Date (Proposal Date)  : Nov 5, 2026 
+### Date (Proposal Date)  : Nov 13, 2026
 
 ### Project Description:
 
